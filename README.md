@@ -94,7 +94,7 @@ npm start
 
 ## 👨‍🎓 Réalisé par
 
-* Nom : Anouar
+* Nom : CHAH SALMA
 * Module : React Native
 * TP : TP 4 – Navigation
 
